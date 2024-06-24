@@ -12,7 +12,6 @@ Aqui você encontrará projetos e exercícios que desenvolvo ao longo da minha j
 
 📚 Universidade: Universidade Estadual da Paraíba (UEPB).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-istamilo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias
 <div style="display: inline_block"><br/>
     <img align = "center" alt="Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
