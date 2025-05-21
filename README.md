@@ -8,9 +8,13 @@
 
 👨‍💻 Acadêmico de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB) e de Engenharia Mecatrônica pelo Centro Universitário UFBRA.
 🔧 Estagiário no Laboratório de Tecnologias Tridimensionais (LT3D), vinculado ao NUTES/UEPB, atuando com modelagem 3D, prototipagem, programação e desenvolvimento de sistemas mecatrônicos.
+
 💻 Possuo conhecimentos em Python, C/C++ e Java e estou em constante aprendizado, buscando evoluir como programador e aplicando meus conhecimentos em projetos práticos.
+
 📁 Aqui você encontrará projetos e exercícios desenvolvidos ao longo da minha jornada acadêmica.
+
 🚀 Tenho interesse em tecnologia aplicada, sistemas embarcados e automação.
+
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
