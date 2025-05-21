@@ -7,6 +7,7 @@
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-istamilo&show_icons=true&theme=dracula)
 
 👨‍💻 Acadêmico de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB) e de Engenharia Mecatrônica pelo Centro Universitário UFBRA.
+
 🔧 Estagiário no Laboratório de Tecnologias Tridimensionais (LT3D), vinculado ao NUTES/UEPB, atuando com modelagem 3D, prototipagem, programação e desenvolvimento de sistemas mecatrônicos.
 
 💻 Possuo conhecimentos em Python, C/C++ e Java e estou em constante aprendizado, buscando evoluir como programador e aplicando meus conhecimentos em projetos práticos.
