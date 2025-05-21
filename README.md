@@ -18,15 +18,11 @@
 
 
 ## Tecnologias
-<div style="display: inline_block"><br/>
-    <img align = "center" alt="Python" src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
-    <img align = "center" alt="C" src = "https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
-    <img align = "center" alt="C++" src = "https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
-    <img align = "center" alt="Java" src = "https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
-    
-    
-<div>
-<div>
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+
 
 
 
