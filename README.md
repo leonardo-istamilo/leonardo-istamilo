@@ -6,7 +6,7 @@
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-istamilo&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-istamilo&layout=compact&theme=dark)](https://github.com/leonardo-istamilo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-istamilo&layout=compact&theme=dracula)
 
 👨‍💻 Acadêmico de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB) e de Engenharia Mecatrônica pelo Centro Universitário UFBRA.
 
